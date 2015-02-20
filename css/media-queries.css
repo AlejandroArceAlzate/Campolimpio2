@@ -50,7 +50,7 @@ and (min-width : 1440px) {
 /* Styles */
   body
   {
-    background: red;
+    margin-left: 100px;
   }
 }
 
