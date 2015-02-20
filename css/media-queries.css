@@ -46,9 +46,12 @@ and (min-width : 1440px) {
 }
 
 /* Large screens ----------- */
-@media only screen 
-and (min-width : 1824px) {
+@media screen and (min-width : 1824px) {
 /* Styles */
+  body
+  {
+    background: red;
+  }
 }
 
 /* iPhone 4 ----------- */
